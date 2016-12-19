@@ -6,7 +6,7 @@ import android.os.Bundle;
 public class MainActivity extends AppCompatActivity {
 
     /**
-     * 这个是测试sssssssssssss
+     * 这个是测试
      */
     @Override
     protected void onCreate(Bundle savedInstanceState) {
